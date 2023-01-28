@@ -1,0 +1,53 @@
+.trigger {
+    padding: 0 24px;
+    font-size: 18px;
+    line-height: 64px;
+    cursor: pointer;
+    transition: color 0.3s;
+  }
+  
+  .trigger:hover {
+    color: #1890ff;
+  }
+  
+  .logo {
+    height: auto;
+    margin:0 14px;
+    border:'1px solid red';
+   
+  }
+  
+  .site-layout .site-layout-background {
+    background: #fff;
+  }
+  
+  ::-webkit-scrollbar {
+    width: 5px;
+    background-color: #fff;
+  
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #fff;
+   
+  }
+
+  .roundedImg{
+    width: 50px !important;
+    height: 50px !important;
+    border-radius: 50%;
+  }
+
+  .btnCheck .ant-space-item{
+    width: 100%;
+  }
+
+  .checkAll{
+    background-color:#7fb691;
+    padding:10px;
+    border-radius:10px;
+    height:42px;
+    width:100%;
+    display: block;
+    color: #fff;
+  }
