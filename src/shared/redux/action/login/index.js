@@ -59,7 +59,7 @@ export const AuthCheck = createAsyncThunk('LoginCheck',
             .catch(error => {
                 alert(error)
                 dispatch(loginClear())
-                Alert("error","error while auth checking") 
+                Alert("error","Error while auth checking") 
             })
     }
 )

@@ -30,7 +30,6 @@
     "use-sound": "^4.0.1",
     "web-vitals": "^2.1.0"
   },
-  "proxy": "http://localhost:4001",
   "scripts": {
     "eject": "react-scripts eject",
     "start": "craco start",
